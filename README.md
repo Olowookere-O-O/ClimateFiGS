@@ -1,7 +1,7 @@
 # ClimateFiGS
-# Repo Author: Olowookere Oluwatosin, 
+## Repo Author: Olowookere Oluwatosin, 
               PhD student of ClimateFiGS
-# Principal Investigator: Dr. Ruth Carlitz 
+### Principal Investigator: Dr. Ruth Carlitz 
 # Date: April 22nd, 2025
 
 ClimateFiGS is an ERC-funded project at the University of Amsterdam, aiming to understand climate finance allocation behaviour in the Global South. The project is led by Dr Ruth Carlitz. The repository contains all data, code scripts and frameworks utilise for various research conducted for ClimateFiGS Project. 
