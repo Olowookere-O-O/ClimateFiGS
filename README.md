@@ -1,5 +1,6 @@
 # ClimateFiGS
-# Repository Author: Olowookere Oluwatosin, PhD student of ClimateFiGS
+# Repo Author: Olowookere Oluwatosin, 
+              PhD student of ClimateFiGS
 # Principal Investigator: Dr. Ruth Carlitz 
 # Date: April 22nd, 2025
 
